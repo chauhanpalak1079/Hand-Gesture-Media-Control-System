@@ -32,7 +32,7 @@ Ensure the following libraries and dependencies are installed:
 ## Usage Instructions
 
 ### 1. **Setup**
-Run the script on a system with a camera. The application initializes hand gesture detection and displays a GUI window for volume updates.
+Run the script on the system with a camera. The application initializes hand gesture detection and displays a GUI window for volume updates.
 
 ### 2. **Controls**
 - **Gesture Calibration**: The system calibrates gesture thresholds at startup. Follow the instructions on the console.
