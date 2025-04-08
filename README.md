@@ -1,4 +1,4 @@
-# Hand-Gesture-Media-Control-System
+# Hand Gesture Media Control System
 
 ## Overview
 The **Hand Gesture Media Control System** is a Python-based application that uses hand gestures to control media playback and system volume. The system leverages Mediapipe for hand tracking, OpenCV for video input, and PyAutoGUI for automating media control actions.
